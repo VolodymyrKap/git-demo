@@ -6,3 +6,5 @@ test 5
 
 
 LINE ADDED
+
+feature line
