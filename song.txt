@@ -7,4 +7,6 @@ test 5
 
 LINE ADDED
 
-feature line
+feature line 1
+
+main line
